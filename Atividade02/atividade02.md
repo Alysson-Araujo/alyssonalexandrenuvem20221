@@ -84,3 +84,17 @@ Resposta:
 
 
 5. **Quais são as seis perspectivas do AWS Cloud Adoption Framework (AWS CAF)? Cite um stakeholder importante para cada perspectiva.** 
+
+Resposta: As seis perspectivas são divididas em duas: **Foco nos recursos empresarias** que possui as três perspectivas *Negócios*, *Pessoas* e *Governança*, e **Foco nos recursos técnicos** que possui as três perspectivas *Plataformas*, *segurança* e *operações*. Agora segue abaixo as caracteríticas das seis perspectivas do AWS CAF:
+
+* Negócios: Aqui os responsáveis na parte empresarial (por exemplo gerentes de negócios e gerentes financeiros) podem utilizar do AWS CAF podem criar um projeto de negócio forte envolvendo a nuvem com iniciativas para sua adoção. Nisso, deve ser garantido que as estratégias de negócios de uma organização seja alinhada com os recursos de TI. 
+
+* Pessoas: Aqui na parte da pespectiva das pessoas (como os recursos humanos, gerentes de pessoas) podem usar o AWS CAF para fazer avaliações estruturas e funções organizacionais, novos requisitos de habilidades e processos e identificar lacunas. 
+
+* Governança: Na parte perspectiva governança, o diretor de tecnologia, gerente de programas, entre outros, podem usar o AWS CAF para avaliar estruturas e funções organizacionais, novos requisitos de habilidades e processos e identificar lacunas. 
+
+* Plataformas
+
+* Segurança
+
+* Operações
