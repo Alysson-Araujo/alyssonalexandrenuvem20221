@@ -38,5 +38,49 @@ Resposta: As seguintes vantagens são:
 
 * Vantagem 5 - Pare de gastar dinheiro na execução e manutenção de datacenters: A computação em nuvem permite que a empresa possa se concentrar em seus clientes, e não no trabalho complicado de instalar racks, empilhar e alimentar os servidores, no caso na infraestrutura do servidor.
 
-* Vantagem 6 - Tenha alcance global em minutos: implante aplicativos com facilidade em várias regiões da AWS no mundo com apenas alguns cliques. Como resultado,você pode oferecer latência menor e experiência melhor aos clientes com simplicidade e custo mínimo.
+* Vantagem 6 - Tenha alcance global em minutos: Como a AWS está presente em várias regiões do mundo, é possível que seja implantado aplicativos com facilidade em várias regiões onde a AWS está implantada com apenas alguns cliques. Dessa forma, é possível oferecer experiência melhor com custos muito reduzidos.
 
+<br>
+<br>
+
+2. **Quais são os três modelos de serviços de computação em nuvem? Cite um exemplo para cada modelo, seja de um serviço da AWS ou de outro provedor.** 
+
+Resposta:
+
+* Infraestrutura como serviço (IaaS): O IaaS possui os componentes básicos da TI em nuvem que, normalmente, fornecem acesso a recursos de rede e computadores, sendo ela de forma virtual ou com hardwares que são dedicados, em questão do armazenamento de dados, além de entregar o acesso ao nível mais alto de controle sobre os recursos de TI. Isso vai até qual sistema operacional será usado. Exemplos de Iaas são os [Cisco Metacloud](https://www.cisco.com/c/pt_br/solutions/cloud/index.html#~produtos), [Microsoft Azure](https://azure.microsoft.com/pt-br/), [Google Compute Engine (GCE)](https://cloud.google.com/compute?hl=pt-br) e [Amazon Web Services (AWS)](https://aws.amazon.com/pt/).
+
+ 
+
+* Plataforma como serviço (PaaS): Com ele é possível  ter um ambiente de desenvolvimento e implantação completo na nuvem, no qual possui recursos que permitem a implantação de aplicativos baseados em nuvem, sem a necessidade de ter um foco maior na parte de gerenciar a sua infraestrutura (hardware e Sistema Operacional (SO)). Exemplos de PaaS são os  
+
+* Software como serviço (SaaS):
+
+<br>
+<br>
+
+3. **Cite três serviços da AWS para cada categoria a seguir:**
+* **Computação**
+* **Armazenamento**
+* **Banco de Dados**
+
+Resposta:
+* Computação: Amazon Elastic Compute Cloud (EC2), Amazon EC2 Auto Scaling e AWS Lambda
+* Armazenamento: Amazon S3, Amazon S3 Glacier e Amazon EFS
+* Banco de dados: Amazon Aurora, Amazon Redshift e Amazon DynamoDB.
+
+
+<br>
+<br>
+
+4. **Quais as três principais maneiras de interagir com a AWS?**
+
+Resposta:
+
+* Console de Gerenciamento da AWS: Com uma interface gráfica, temos acesso a maioria dos recursos que são disponibilizado pela AWS. 
+
+* Interface de linha de comando da AWS (CLI da AWS): Utilitários onde pode ser usadas através de scripts de comando no Linux, macOS e Windows.
+
+* Software Development Kits (SDKs): Pacotes de desenvolvimento para desenvolvedores poderem acessar a AWS em determinadas Linguagens de computação, para criar seus aplicativos.
+
+
+5. **Quais são as seis perspectivas do AWS Cloud Adoption Framework (AWS CAF)? Cite um stakeholder importante para cada perspectiva.** 
