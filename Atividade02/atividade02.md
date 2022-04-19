@@ -36,7 +36,7 @@ Resposta: As seguintes vantagens são:
 
 * Vantagem 4 - Aumente a velocidade e a agilidade: Em um ambiente de computação em nuvem, temos recursos adicionais de TI que estão com fácil alcance com apenas um clique, e isso significa que o tempo necessário para disponibilizar estes recursos aos desenvolvedores passa de semanas para poucos minutos. As consequências que isso causa vem a ser o aumento na velocidade na hora de organizar os recursos, já que o tempo e os custo que teriam se fosse necessário desenvolver os recursos do zero e fazer os respectivos testes, acabam sendo considerávelmentes menores usando computação em nuvem.
 
-* Vantagem 5 - Pare de gastar dinheiro na execução e manutenção de datacenters: A computação em nuvem permite que a empresa possa se concentrar em seus clientes, e não no trabalho complicado de instalar racks, empilhar e alimentar os servidores, no caso na infraestrutura do servidor.
+* Vantagem 5 - Pare de gastar dinheiro na execução e manutenção de datacenters: A computação em nuvem permite que a empresa possa se concentrar em seus clientes, e não no trabalho complicado de instalar racks, empilhar e alimentar os servidores, no caso na infraestrutura do servidor. 
 
 * Vantagem 6 - Tenha alcance global em minutos: Como a AWS está presente em várias regiões do mundo, é possível que seja implantado aplicativos com facilidade em várias regiões onde a AWS está implantada com apenas alguns cliques. Dessa forma, é possível oferecer experiência melhor com custos muito reduzidos.
 
@@ -53,7 +53,7 @@ Resposta:
 
 * Plataforma como serviço (PaaS): Com ele é possível  ter um ambiente de desenvolvimento e implantação completo na nuvem, no qual possui recursos que permitem a implantação de aplicativos baseados em nuvem, sem a necessidade de ter um foco maior na parte de gerenciar a sua infraestrutura (hardware e Sistema Operacional (SO)). Exemplos de PaaS são os  
 
-* Software como serviço (SaaS):
+* Software como serviço (SaaS): Esse modelo de serviço
 
 <br>
 <br>
@@ -93,8 +93,9 @@ Resposta: As seis perspectivas são divididas em duas: **Foco nos recursos empre
 
 * Governança: Na parte perspectiva governança, o diretor de tecnologia, gerente de programas, entre outros, podem usar o AWS CAF para avaliar estruturas e funções organizacionais, novos requisitos de habilidades e processos e identificar lacunas. 
 
-* Plataformas
+* Plataformas: Aqueles que são interessados nessa perspectiva, por exemplo direto de tecnologia e gerentes de TI, usam os modelos de arquitetura para compreender e fazer comunicações com sistemas de TI e referentes a ele. O AWS CAF inclui princípios e padrões para ser possível a implantação de novas soluções e migração de cargas de trabalho locais para a nuvem.
 
-* Segurança
 
-* Operações
+* Segurança: Os interessados nessa perspectiva, por exemplo direito de segurança da informação e gerentes de segurança, devem trazer a garantia que a organização sejam bem estruturadas para atender a questão da segurança de visibilidade, auditoria, controle e agilidade. 
+
+* Operações: 
