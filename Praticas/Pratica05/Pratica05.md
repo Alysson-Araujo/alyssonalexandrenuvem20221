@@ -6,6 +6,8 @@ Data de criação: 17/04/2022
 
 Autor: [Emanuel Coutinho](https://github.com/emanuelcoutinho)
 
+Discente: [Alysson Alexandre de Oliveira Araújo](https://github.com/Alysson-Araujo)
+
 ## Objetivo
 Explorar o EC2 e criar máquians virtuais.
 
@@ -34,12 +36,32 @@ Acesse o **EC2**.
 3. Identifique os seguintes campos e copie as informações:
 
    - Descrição da imagem a ser criada
+
+        Amazon Linux 2 Kernel 5.10 AMI 2.0.20220406.1 x86_64 HVM gp2
+
+        Arquitetura: 64 bits(x86)
+
+        ID da AMI: ami-03ededff12e34e59e
+
+    
    - Tipo da instância
+
+        t2.micro: Da família t2, com **1 vCPU** e **1 GiB Memória**  
+            
    - Configurações de redes
+   
+      ![config REDES](descricao_da_rede.png)
+
    - Armazenamento
+         
+      ![config armazenamento](config_armazenamento.png)
+         
+
    - Número de instâncias
+      Possui apenas 1 instância
 
 4. Identifique na lista de instâncias o endereço IP público da máquina virtual.
+   O IP, do tipo IPv4, é _54.234.6.116_
 
 5. Acesse a algum cliente SSH de sua preferência (eu uso ou o terminal com linha de comando ou o MobaXterm).
 
