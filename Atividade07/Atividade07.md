@@ -27,6 +27,8 @@ Complete todas as etapas do Laboratório 3 - Introdução ao Amazon EC2.
 Questão 03 - 0,5 Ponto
 Complete todas as etapas da atividade Atividade: AWS Lambda.
 
+[Link](https://drive.google.com/file/d/1U6DFxfjo4xOn2X26kneOVQ8LsIhTiN_C/view?usp=sharing)
+
 <br>
 
 Questão 04 - 0,5 Ponto
