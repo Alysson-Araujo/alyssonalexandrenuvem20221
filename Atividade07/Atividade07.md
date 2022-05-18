@@ -20,6 +20,7 @@ Resolva o Teste de Conhecimento do Módulo 6: Computação. Se você tirar 80 po
 
 Questão 02 - 1,0 Ponto
 Complete todas as etapas do Laboratório 3 - Introdução ao Amazon EC2.
+
 [Link Introdução ao Amazon EC2 LAB](https://drive.google.com/file/d/1CYZ8IPVYXLIhLCdhZIHGnZtFFGgHYwhR/view?usp=sharing)
 
 <br>
