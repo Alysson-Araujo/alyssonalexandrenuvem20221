@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&display=swap');
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding:0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Quicksand', sans-serif;
+  
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+.App{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:center;
+  width:100%;
+  height:100%;
+}
+.App img{
+  height:80vh;
+
+}
+
+div {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+	height: 100vh;
+	margin: 0;
+	background-color: beige;
+  text-align: center;
+
+}
+
+button {
+	border: 0;
+	font-size: 1.2rem;
+	font-weight: 500;
+	padding: 16px;
+	background: orangered;
+	color: white;
+	margin: 20px 0;
+	cursor: pointer;
+	transition: all 0.5s ease-in-out;
+	border-radius: 15px;
+}
+
+button:hover {
+	background: orange;
+}
+
+/*
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&display=swap');
+
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: 'Quicksand', sans-serif;
+	height: 100vh;
+	margin: 0;
+	background-color: beige;
+}
+
+img {
+	max-width: 600px;
+	border-radius: 30px;
+}
+
+main {
+	text-align: center;
+}
+
+button {
+	border: 0;
+	font-size: 1.2rem;
+	font-weight: 500;
+	padding: 16px;
+	background: orangered;
+	color: white;
+	margin: 20px 0;
+	cursor: pointer;
+	transition: all 0.5s ease-in-out;
+	border-radius: 15px;
+}
+
+button:hover {
+	background: orange;
+}
+
+ */
